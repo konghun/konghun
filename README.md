@@ -16,11 +16,25 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&text=roscore)
+# 안녕하세요! 여기는 roscore의 GitHub 프로필입니다.
 
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<p align="center">
+    <a href="https://github.com/roscore?tab=repositories">
+        <img alt="GitHub followers" src="https://img.shields.io/github/followers/roscore?style=social">
+    </a>
+    <a href="https://github.com/roscore?tab=stars">
+        <img alt="GitHub stars" src="https://img.shields.io/github/stars/roscore?style=social">
+    </a>
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roscore)](https://github.com/anuraghazra/github-readme-stats) 
-</div>
+<p align="center">
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+    <img alt="ROS" src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white">
+    <img alt="ROS2" src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white">
+    <img alt="Matlab" src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white">
+</p>
+
+![roscore's GitHub stats](https://github-readme-stats.vercel.app/api?username=roscore&show_icons=true&theme=radical)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roscore&layout=compact)
+
