@@ -8,7 +8,8 @@
 
 ## My GitHub Stats
 
-[![roscore's GitHub stats](https://github-readme-stats.vercel.app/api?username=roscore&show_icons=true&theme=radical)](https://github.com/roscore/github-readme-stats)
+[![roscore's GitHub stats](https://github-readme-stats.vercel.app/api?username=roscore&show_icons=true&theme=radical)](https://github.com/roscore/github-readme-stats private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 
 ## Most Starred Repositories
 
