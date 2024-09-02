@@ -18,4 +18,5 @@
 
 You can reach me at:
 
-- Email: roscore@kakao.com
+- Email: roscore@hanyang.ac.kr
+- Email: jhwon@arobot4all.com
