@@ -1,4 +1,4 @@
-# Hi there 👋, I'm roscore
+# Hi there 👋, I'm konghun
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -8,15 +8,15 @@
 
 ## My GitHub Stats
 
-[![roscore's GitHub stats](https://github-readme-stats.vercel.app/api?username=roscore&show_icons=true&theme=radical)](https://github.com/roscore/github-readme-statsprivate=true)
+[![konghun's GitHub stats](https://github-readme-stats.vercel.app/api?username=konghun&show_icons=true&theme=radical)](https://github.com/konghun/github-readme-statsprivate=true)
 
 ## Most Starred Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roscore&repo=epos4_6dof)](https://github.com/roscore/epos4_6dof)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konghun&repo=epos4_6dof)](https://github.com/konghun/epos4_6dof)
 
 ## Contact Me
 
 You can reach me at:
 
-- Email: roscore@hanyang.ac.kr
-- Email: jhwon@arobot4all.com
+- Email: jsh2231070@naver.com  
+- Email: jsh2231070@arobot4all.com
